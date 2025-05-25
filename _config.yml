@@ -19,14 +19,6 @@
 sidebar:
   nav: "main"
   sticky: true
-#removes author and links
-author:
-  name: ""
-  avatar: null
-  bio: "STI logo nlng or somethings"
-
-#footer:
- # links: []
 
 title: STS PROJECT
 #email:
@@ -72,24 +64,21 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-#author:
- # name   : "First Lastname"
-  #avatar : "/assets/images/bio-photo.jpg"
-  #bio    : "My awesome biography constrained to a sentence or two goes here."
-  #links:
-   # - label: "Website"
-    #  icon: "fas fa-fw fa-link"
-    #  url: "https://"
-    #- label: "Twitter"
-     # icon: "fab fa-fw fa-twitter-square"
-      #url: "https://twitter.com/"
-    #- label: "GitHub"
-     # icon: "fab fa-fw fa-github"
-      #url: "https://github.com/"
-    #- label: "Instagram"
-     # icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/"
-
+author:
+  name   : "STS GROUP 2?"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio: "STI logo nlng or somethings"
+  links:
+    Members
+    - label: "Member"
+    - label: "Member"
+    - label: "Member"
+    - label: "Member"
+    - label: "Member"
+    - label: "Member"
+    - label: "Member"
+    - label: "Member"
+      
 #footer:
   #links:
     #- label: "Twitter"
