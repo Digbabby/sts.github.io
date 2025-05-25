@@ -6,7 +6,7 @@
 layout: single
 title: "Welcome"
 permalink: /
-classes: full
+classes: wide
 author_profile: false
 sidebar: 
   nav: null
