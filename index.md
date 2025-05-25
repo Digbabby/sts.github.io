@@ -8,6 +8,8 @@ title: "Welcome"
 permalink: /
 classes: full
 author_profile: false
+sidebar: 
+  nav: null
 ---
 
 Midterms to Prefinals topics
