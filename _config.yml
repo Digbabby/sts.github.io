@@ -20,14 +20,14 @@ sidebar:
   nav: null
   sticky: false
 #removes author and links
-author:
-  name: ""
-  avatar: null
-  bio: ""
-  links: []
+#author:
+ # name: ""
+  #avatar: null
+  #bio: ""
+  #links: []
 
-footer:
-  links: []
+#footer:
+ # links: []
 
 title: STS PROJECT
 #email:
@@ -91,17 +91,17 @@ plugins:
      # icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/"
 
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+#footer:
+  #links:
+    #- label: "Twitter"
+      #icon: "fab fa-fw fa-twitter-square"
+     # url: "https://twitter.com/"
+    #- label: "GitHub"
+      #icon: "fab fa-fw fa-github"
+     # url: "https://github.com/"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+   #   url: "https://instagram.com/"
 
 defaults:
   # _posts
