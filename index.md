@@ -8,11 +8,6 @@ title: "Welcome"
 permalink: /
 classes: full
 author_profile: false
-author: 
-  name: ""
-  avatar: null
-  bio: ""
-  Links: []
 sidebar: 
   nav: null
   show: false
