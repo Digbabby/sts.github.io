@@ -7,11 +7,6 @@ layout: single
 title: "Welcome"
 permalink: /
 classes: wide
-author_profile: false
-sidebar: 
-  nav: null
-  show: false
-  sticky: false
 ---
 
 Midterms to Prefinals topics
