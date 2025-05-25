@@ -5,10 +5,11 @@
 #changed to single, originally home
 layout: single
 title: "Welcome"
+permalink: /
 classes: full
 author_profile: false
 ---
-<div style="text-align: center; max-width: 800px; margin: 0 auto;">
+
 Midterms to Prefinals topics
 ## Midterms
 - :blue_book: [Digital Safety](/lessons/digital-safety)
