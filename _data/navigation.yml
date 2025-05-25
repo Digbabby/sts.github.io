@@ -8,6 +8,6 @@ main:
   #- title: "About"
   #  url: /about/
   - title: "Home"
-  url: /
-  - "About"
-  url: /about/
+    url: /
+  - title: "About"
+    url: /about/
