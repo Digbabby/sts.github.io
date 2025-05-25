@@ -17,14 +17,13 @@
 
 #Extra addons para matanggal sidebar
 sidebar:
-  nav: null
-  sticky: false
+  nav: "main"
+  sticky: true
 #removes author and links
-#author:
- # name: ""
-  #avatar: null
-  #bio: ""
-  #links: []
+author:
+  name: ""
+  avatar: null
+  bio: "STI logo nlng or something"
 
 #footer:
  # links: []
