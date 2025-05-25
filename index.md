@@ -8,10 +8,7 @@ title: "Welcome"
 classes: wide
 author_profile: false
 ---
-Welcome to My Educational Site!
+Midterms to Prefinals topics
 
-- 📘 Topics: Algebra, Biology, History
-- 🧠 Learn through examples and summaries
-
-Start by exploring the lessons in the menu above.
-
+- [Digital Safety](/lessons/digital-safety)
+- [Industrial Revolution](/lessons/Indus-revo)
